@@ -1,5 +1,6 @@
 # Boss Randomizer
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=talesrune.bossrand)
+
 Anyone can become a random boss after typing a command called **!bossrand** or **/bossrand** and everyone is able to use the command. There is a cooldown though.
  
 Every boss has a PDA which blocks a backstab before a spy can insta-kill the boss. This is to ensure that the bosses will not die so easily by a single stab. The number of PDAs varies from different bosses. PDA is replaced with SDK Hooks as of May 2020.
@@ -34,5 +35,3 @@ Every boss has a PDA which blocks a backstab before a spy can insta-kill the bos
 
 # Credits
 * FlaminSarge - Based from his plugin: Be the Horsemann
-
-
