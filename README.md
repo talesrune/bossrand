@@ -5,12 +5,12 @@ Anyone can become a random boss after typing a command called **!bossrand** or *
 Every boss has a PDA which blocks a backstab before a spy can insta-kill the boss. This is to ensure that the bosses will not die so easily by a single stab. The number of PDAs varies from different bosses. PDA is replaced with SDK Hooks as of May 2020.
 
 # Commands
-- **sm_bossrand** - Give that person a Random Boss.
+- **sm_bossrand** - Give the user a Random Boss.
 
 
 # Admin commands
 - **sm_bossrand_reload** - Reload config for BossRand.
-- **sm_br** - Give that person a Random Boss. (E.g. No 1)  **sm_br hd @blue** ~ Transforms blue team to be Heavy Deflectors. (E.g. No 2)  **sm_br hd jack** ~ Transforms jack to be a Heavy Deflector.
+- **sm_br** - Give that person a Random Boss. (E.g. No 1) **sm_br hd @blue** ~ Transforms blue team to be Heavy Deflectors. (E.g. No 2) **sm_br hd jack** ~ Transforms jack to be a Heavy Deflector. (E.g. No 3) **sm_br any jack** ~ Transforms jack to be a random boss.
 
 
 # ConVars
